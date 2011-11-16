@@ -41,7 +41,7 @@ deploy/*
 
 # Ignoring NuGet packages for this project
 **/*.nupkg
-packages
+packages/*
 !packages/repositories.config
 
 _FileCache
